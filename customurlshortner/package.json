@@ -1,0 +1,17 @@
+{
+  "name": "customurlshortner",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "palak",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.0",
+    "nanoid": "^5.1.11"
+  }
+}
